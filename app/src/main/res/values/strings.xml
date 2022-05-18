@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Administrador Panorama Regional</string>
+    <string-array name="secciones">
+    <item>Interes</item>
+    <item>Policiales</item>
+    <item>Judiciales</item>
+    <item>Turismo</item>
+    <item>Sin seccion</item>
+    </string-array>
+    <string-array name="ubicacion">
+    <item>Locales</item>
+    <item>Regionales</item>
+    <item>Provinciales</item>
+    <item>Nacionales</item>
+    <item>Internacionales</item>
+    </string-array>
+    <string-array name="importancia">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    </string-array>
+</resources>
